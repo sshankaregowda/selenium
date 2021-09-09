@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: testCases.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 1.075 sec <<< FAILURE! - in testCases.LoginTest
+setUp(testCases.LoginTest)  Time elapsed: 0.384 sec  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: /Users/shruthishan/Downloads/chromedriver
+	at testCases.LoginTest.setUp(LoginTest.java:11)
+
